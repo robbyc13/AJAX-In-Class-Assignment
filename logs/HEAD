@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 9594fe7f4099d0f1686727847bf9475d05de7e23 Jesus H <jesus@codeawesome.com> 1475737639 -0500	commit (initial): jQuery App.
+9594fe7f4099d0f1686727847bf9475d05de7e23 9594fe7f4099d0f1686727847bf9475d05de7e23 Jesus H <jesus@codeawesome.com> 1475737650 -0500	checkout: moving from jquery to angular
+9594fe7f4099d0f1686727847bf9475d05de7e23 43538142a414d387536c60214b61eb24940d6f39 Jesus H <jesus@codeawesome.com> 1475741853 -0500	commit: Angular app
+43538142a414d387536c60214b61eb24940d6f39 c0e87be6088214fd70007c5f5500429fcaf4c1bf Jesus H <jesus@codeawesome.com> 1475741994 -0500	commit: Style changes.
+c0e87be6088214fd70007c5f5500429fcaf4c1bf 9594fe7f4099d0f1686727847bf9475d05de7e23 Jesus H <jesus@codeawesome.com> 1475767733 -0500	checkout: moving from angular to jquery
